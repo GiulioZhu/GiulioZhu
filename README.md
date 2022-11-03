@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiulioZhu
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering, Game Development.
 - 🌱 I’m currently studying MEng Computer Science at UCL
 - 📫 You can reach me by email through giuliozhu@outlook.com or zcabgzh@ucl.ac.uk
       
